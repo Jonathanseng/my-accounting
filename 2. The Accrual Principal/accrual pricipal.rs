@@ -1,3 +1,4 @@
+// This code will calculate the accrual principal accounting for a loan with the specified principal amount, interest rate, and number of periods. The results will be printed to the console.
 
 use std::collections::VecDeque;
 
